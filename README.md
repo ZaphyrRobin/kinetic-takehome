@@ -37,6 +37,8 @@ redis-server
 python3 main.py -h
 ```
 
+add the HELIUS_API_KEY = "<your key>" in .env
+
 ### Get the first deployment timestamp
 #### On **Devnet**
 ```
